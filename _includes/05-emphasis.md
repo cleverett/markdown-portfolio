@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Adding Emphasis**
+__in Markdown__
+
+*There are many ways*
+_you can do this_
+
+_These are just **some** examples_ 
